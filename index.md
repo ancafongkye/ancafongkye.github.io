@@ -1,37 +1,62 @@
-## Welcome to GitHub Pages
+## A propos de moi
 
-You can use the [editor on GitHub](https://github.com/ancafongkye/ancafongkye.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+Organisée et rigoureuse, passionnée par la mise en place des outils pour l’amélioration
+de la qualité du travail (bonne maîtrise de l'Excel), très à l’aise avec les chiffres et bon
+état d’esprit.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Expériences
 
-### Markdown
+**2017 - Août 2021**
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- Manager, responsable qualité, Centrale pâtisserie AUCHAN Mérignac Mondesir
+Gestion commerciale: garante du compte d’exploitation (CA, marge, frais de
+personnels); mise en place des cadenciers de commandes et des tableaux de bords;
+gestion des stocks; négociations avec les fournisseurs; base de calcul automatisé
+des coûts de revient produits finis
+- Marketing: choix des opérations promotionnelles; mise en place des benchmarks
+- Management : gestion et animation d’une équipe de 10 personnes; plannings;
+recrutements; formations
+- Assurance qualité: HACCP; formations aux règles d’hygiène et sécurité
+alimentaire; realisation des fiches techniques et d'un étiquetage adapté
+(composition, poids); mise en place d'un fichier automatisé pour le calcul des
+valeurs énergétiques; traçabilité; audits qualité et mise en place des actions
+correctives
 
-```markdown
-Syntax highlighted code block
+**2013 - 2017**
 
-# Header 1
-## Header 2
-### Header 3
+- Responsable Boulangerie, AUCHAN Bordeaux Caudéran
+Gestion des commandes, tenue des stocks, inventaire, management de 3 personnes
+et sensibilisation aux règles QHSE
 
-- Bulleted
-- List
+**2012 - 2013**
 
-1. Numbered
-2. List
+- Manager De Rayon en alternance, Ecole Professionelle de la CCI de Bordeaux
+Campus du Lac, AUCHAN Mérignac Mondesir
+Commerce; Gestion; Management; Marketing; Assurance qualité et Formation de
+tous les collaborateurs du magasin au respect des règles QHSE
 
-**Bold** and _Italic_ and `Code` text
+**2008 - 2009**
 
-[Link](url) and ![Image](src)
-```
+- Réceptionniste Polyvalente, HOTEL F1 Villenave d'Ornon
+Accueil physique et téléphonique, réservations sur logiciel Fols, encaissement,
+gestion des stocks, management de 3 personnes
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+### Formation
 
-### Jekyll Themes
+**2022**
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ancafongkye/ancafongkye.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+WILD CODE SCHOOL, DATA ANALYST
 
-### Support or Contact
+**2007**
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+DIPLÔME NATIONAL D’OENOLOGUE, UNIVERSITÉ BORDEAUX 2
+
+**2005**
+
+DIPLÔME D’INGENIEUR DANS L’INDUSTRIE ALIMENTAIRE (Spécialisation
+Assurance Qualité), UNIVERSITÉ DE GALATI ROUMANIE
+
+**2000**
+
+BACCALAUREAT SCIENTIFIQUE (Informatique et Mathématiques , mention
+Très Bien), ROUMANIE
