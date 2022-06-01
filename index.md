@@ -47,6 +47,23 @@ gestion des stocks, management de 3 personnes
 
 WILD CODE SCHOOL, DATA ANALYST
 
+●	Collecte des données : exploration et requêtage des différents types de bases de données, et récupération des données (notamment **SQL**):
+-	Modéliser des bases de données et réaliser des requêtes sur des bases de données relationnelles pour extraire des données
+-	Réaliser des agrégations, des jointures et des sous-requêtes sur des bases de données et visualisation avec **Tableau**
+
+●	Automatisation du traitement des données : nettoyage, uniformisation:
+-	Utiliser des algorithmes en langage **Python** (variables, boucles, itérateur, conditions) afin de transformer des données dans le but de les rendre exploitables
+-	Manipuler des structures de données (chaînes de caractères, listes, dictionnaires et tuples) afin de permettre leur exploitation à travers des applications 
+-	Utiliser les DataFrames (notamment avec **Pandas**) afin de faciliter l’import, la manipulation et la fusion de données
+-	Retraiter les valeurs aberrantes (outliers) et les valeurs manquantes afin d’éviter les impacts sur l’exploitation et le traitement des bases de données
+
+●	Modélisation des données structurées : identification des corrélations existantes et utilisation du Machine Learning pour établir des prévisions:
+-	Modélisation des données avec du **Machine Learning** (syntaxe scikit-learn, train-test-split, fit, predict, score) afin de permettre à des algorithmes d’apprendre automatiquement à partir de données 
+-	Modéliser des régressions supervisées et interpréter les métriques associées afin de définir des modèles de prévisions  
+- Utiliser le clustering non-supervisé et ses métriques afin de révéler des similarités entre groupes homogènes de données.
+- Utiliser des outils et des méthodes statistiques afin de réaliser des réductions de dimension non-supervisée en Machine Learning (ACP, scikit-learn) 
+- Traiter automatiquement le langage naturel (**NLP**) à partir de texte brut afin d’en tirer de la valeur en fonction de classification (Sentiment analysis) 
+
 **2007**
 
 DIPLÔME NATIONAL D’OENOLOGUE, UNIVERSITÉ BORDEAUX 2
