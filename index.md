@@ -6,7 +6,7 @@ de la qualité du travail (bonne maîtrise de l'Excel), très à l’aise avec l
 
 ### 2022
 
-WILD CODE SCHOOL, DATA ANALYST
+WILD CODE SCHOOL: FORMATION DATA ANALYST
 
 ●	Collecte des données : exploration et requêtage des différents types de bases de données, et récupération des données (notamment **SQL**):
 -	Modéliser des bases de données et réaliser des requêtes sur des bases de données relationnelles pour extraire des données
