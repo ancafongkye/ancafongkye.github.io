@@ -54,7 +54,7 @@ Campus du Lac, AUCHAN Mérignac Mondesir
 Commerce; Gestion; Management; Marketing; Assurance qualité et Formation de
 tous les collaborateurs du magasin au respect des règles QHSE
 
-### 2008 - 2009
+### 2008 - 2012
 
 - Réceptionniste Polyvalente, HOTEL F1 Villenave d'Ornon
 Accueil physique et téléphonique, réservations sur logiciel Fols, encaissement,
